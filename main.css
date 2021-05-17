@@ -7,13 +7,12 @@
 body{
 	background: #333333;
 	width: 360px;
-	
 }
 
 h1{
    width: 100%;
 
-   top: 85px;
+   top: 55px;
 
    font-size: 16px;
    text-align: center;
@@ -35,35 +34,41 @@ button:hover{
     -webkit-transition: all 0.1s ease-in;
 }
 
+a{
+	
+	text-decoration: none;
+	line-height: .3rem;
+}
+
 #whatsapp {
-	top: 132px;
+	top: 102px;
     background: linear-gradient(270deg, #FEFFFE 2.33%, rgba(37, 211, 102, 0.928962) 100%);
 }
 
 #instagram {
-    top: 219px;
+    top: 189px;
     background: linear-gradient(270deg, rgba(253, 29, 29, 0.960675) 0%, rgba(225, 48, 108, 0.960675) 34.19%, rgba(193, 53, 132, 0.928962) 46.17%, rgba(131, 58, 180, 0.928962) 59.92%, rgba(91, 81, 216, 0.928962) 71.91%, #405DE6 93.2%);    
 }
 
 #linkedin {
-    top: 306px;
+    top: 276px;
     background: linear-gradient(270deg, #FAFDFF 0%, #0077B5 100%); 
 }
 
 #telegram {
-    top: 393px;
+    top: 363px;
     background: linear-gradient(270deg, #FAFDFF 0%, #0088CC 100%);
 }
 
 #github {
-    top: 480px;
+    top: 450px;
     background: linear-gradient(270deg, #FAFDFF 0%, #333333 100%);
 }
 
 footer{
    width: 100%;
 
-   top: 565px;
+   top: 535px;
 
    font-size: 16px;
    text-align: center;
