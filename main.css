@@ -1,27 +1,28 @@
 *{	
 	color: white;
-	position: absolute;
+	position: fixed;
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
 body{
 	background: #333333;
-	width: 360px;
+	width: 100%;
+  height: 540px;
 }
 
 h1{
    width: 100%;
 
    top: 55px;
-
+   left: 105px;
    font-size: 16px;
    text-align: center;
 }
 
 button {
-	border: 0;
-	border-radius: 30px;
-	width: 258px;
+	  border: 0;
+	  border-radius: 30px;
+	  width: 258px;
     height: 60px;
     left: 51px;
     text-align: left;
@@ -30,18 +31,17 @@ button {
 }
 
 button:hover{
-	-webkit-transform: scale(1.1);
+	  -webkit-transform: scale(1.1);
     -webkit-transition: all 0.1s ease-in;
 }
 
 a{
-	
 	text-decoration: none;
 	line-height: .3rem;
 }
 
 #whatsapp {
-	top: 102px;
+	  top: 102px;
     background: linear-gradient(270deg, #FEFFFE 2.33%, rgba(37, 211, 102, 0.928962) 100%);
 }
 
@@ -66,9 +66,8 @@ a{
 }
 
 footer{
-   width: 100%;
-
    top: 535px;
+   left: 105px;
 
    font-size: 16px;
    text-align: center;
