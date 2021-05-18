@@ -5,25 +5,23 @@
   margin: 0;
 }
 
-body{
-	background: #333333;
+@media screen and (max-width:540px){
+  body{
+  background: #333333;
   height: 540px;
 }
 
 h1{
-   width: 100%;
-
    top: 35px;
 
    font-size: 16px;
-   text-align: center;
-  
+   left: 106px;
 }
 
 button {
-	  border: 0;
-	  border-radius: 30px;
-	  width: 258px;
+    border: 0;
+    border-radius: 30px;
+    width: 258px;
     height: 60px;
     left: 51px;
     text-align: left;
@@ -32,17 +30,17 @@ button {
 }
 
 button:hover{
-	  -webkit-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
     -webkit-transition: all 0.1s ease-in;
 }
 
 a{
-	text-decoration: none;
-	line-height: .3rem;
+  text-decoration: none;
+  line-height: .3rem;
 }
 
 #whatsapp {
-	  top: 82px;
+    top: 82px;
     background: linear-gradient(270deg, #FEFFFE 2.33%, rgba(37, 211, 102, 0.928962) 100%);
 }
 
@@ -68,8 +66,8 @@ a{
 
 footer{
    top: 515px;
-   width: 100%;
 
    font-size: 16px;
-   text-align: center;
+   left: 106px;
+}
 }
