@@ -10,8 +10,9 @@
 
 body{
   background: #333333;
-  height: 100%;
-  position: fixed;
+ 
+  
+  margin-top: 10%;
 }
 
 h1{
@@ -19,7 +20,7 @@ h1{
    margin-right: -50%;
    transform: translate(-50%, -50%);
    font-size: 16px;
-   top: 20px;
+   top: 70px;
 }
 
 button {
@@ -34,6 +35,8 @@ button {
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
+
+    box-shadow: 3px 3px 4px rgba(1, 1, 1, 1);
 }
 
 button:hover{
@@ -48,32 +51,32 @@ a{
 }
 
 #whatsapp {
-    top: 82px;
+    top: 132px;
     background: linear-gradient(270deg, #FEFFFE 2.33%, rgba(37, 211, 102, 0.928962) 100%);
 }
 
 #instagram {
-    top: 169px;
+    top: 219px;
     background: linear-gradient(270deg, rgba(253, 29, 29, 0.960675) 0%, rgba(225, 48, 108, 0.960675) 34.19%, rgba(193, 53, 132, 0.928962) 46.17%, rgba(131, 58, 180, 0.928962) 59.92%, rgba(91, 81, 216, 0.928962) 71.91%, #405DE6 93.2%);    
 }
 
 #linkedin {
-    top: 256px;
+    top: 306px;
     background: linear-gradient(270deg, #FAFDFF 0%, #0077B5 100%); 
 }
 
 #telegram {
-    top: 343px;
+    top: 393px;
     background: linear-gradient(270deg, #FAFDFF 0%, #0088CC 100%);
 }
 
 #github {
-    top: 430px;
+    top: 480px;
     background: linear-gradient(270deg, #FAFDFF 0%, #333333 100%);
 }
 
 footer{
-   top: 490px;
+   top: 540px;
 
    font-size: 16px;
     left: 50%;
