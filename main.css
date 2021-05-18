@@ -2,11 +2,11 @@
 	color: white;
 	position: fixed;
 	font-family: 'Roboto Condensed', sans-serif;
+  margin: 0;
 }
 
 body{
 	background: #333333;
-	width: 100%;
   height: 540px;
 }
 
@@ -14,9 +14,10 @@ h1{
    width: 100%;
 
    top: 55px;
-   left: 105px;
+
    font-size: 16px;
    text-align: center;
+  
 }
 
 button {
@@ -67,7 +68,7 @@ a{
 
 footer{
    top: 535px;
-   left: 105px;
+   width: 100%;
 
    font-size: 16px;
    text-align: center;
