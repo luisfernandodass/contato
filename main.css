@@ -11,12 +11,14 @@
 body{
   background: #333333;
   height: 500px;
+  display: flex;
+  align-items: center;
 }
 
 h1{
-   width: 100%;
-   text-align: center;
-
+   left: 50%;
+    margin-right: -50%;
+   transform: translate(-50%, -50%);
    font-size: 16px;
    top: 40px;
 }
@@ -26,10 +28,11 @@ button {
     border-radius: 30px;
     width: 258px;
     height: 60px;
-    left: 51px;
+   
     text-align: left;
     padding-left: 2rem ;
     font-size: 20px;
+    margin-left: 20% ;
 }
 
 button:hover{
@@ -71,7 +74,6 @@ footer{
    top: 515px;
 
    font-size: 16px;
-   width: 100%;
-   text-align: center;
+   margin-left: 34% ;
 }
 }
