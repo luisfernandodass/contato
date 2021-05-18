@@ -10,7 +10,7 @@
 
 body{
   background: #333333;
-  height: 500px;
+  height: 590px;
 }
 
 h1{
@@ -36,8 +36,9 @@ button {
 }
 
 button:hover{
-    -webkit-transform: scale(1.1);
+    -webkit-transform: scale(1.9);
     -webkit-transition: all 0.1s ease-in;
+    transform: translate(50%, -50%);
 }
 
 a{
