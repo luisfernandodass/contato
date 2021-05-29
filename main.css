@@ -41,13 +41,6 @@ button {
     animation-name: btn-button;
 }
 
-
-button:hover{
-    background-color: green;
-    height: 10%;
-    width: 40%;
-}
-
 a{
   text-decoration: none;
   line-height: .3rem;
