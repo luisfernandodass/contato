@@ -18,7 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Imagens
 
-<img src="https://github.com/luisfernandodass/IMAGENS/blob/main/contato/contato-img.png">
+![image](https://user-images.githubusercontent.com/67171626/122770626-0533f180-d27c-11eb-8d52-5caedc97d938.png)
 
 ### Licença
 <img src="https://img.shields.io/github/license/luisfernandodass/doebrasil"/>
