@@ -14,7 +14,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - CSS
 - Figma
 
-<h4>Link do site: https://luisfernando.netlify.app/ :link:</h4> 
+<h4>Link do site: https://luisf.netlify.app/ :link:</h4> 
 
 ### Imagens
 
