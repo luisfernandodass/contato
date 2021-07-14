@@ -1,35 +1,35 @@
-# Contato - Luis Fernando
+# Contact - Luis Fernando
 
-## Objetivo
+## Objective
 
-Disponibilizar na bio do meu instagram.
+Make it available on Instagram bio.
 
 ## Host
 
-Acesse o site: https://luisf.netlify.app/
+Access the website: https://luisf.netlify.app/
  
-## Tecnologias
+## Tools
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used to build the project:
 
 - CSS3
 - HTML
 - Figma
 
-## Imagens
+## Images
 
 ![image](https://user-images.githubusercontent.com/67171626/122770626-0533f180-d27c-11eb-8d52-5caedc97d938.png)
 
-## Licença
+## License
 <img src="https://img.shields.io/github/license/luisfernandodass/doebrasil"/>
 
-## Autor
+## Author
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67171626?s=460&u=609fc063322b859752a5675bd4e17657e650a389&v=4" width="100px;" alt=""/>
  
  <b>Luis Fernando</b>
  
-👋🏽 Entre em contato!
+👋🏽 Contact me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisfernando/)](https://www.linkedin.com/in/luisfernando/) 
 [![Gmail Badge](https://img.shields.io/badge/-luisfernandodass@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisfernandodass@gmail.com)](mailto:luisfernandodass@gmail.com)
