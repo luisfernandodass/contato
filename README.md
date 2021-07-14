@@ -2,7 +2,7 @@
 
 ## Objective
 
-Make it available on Instagram bio.
+To make it available on Instagram bio.
 
 ## Host
 
