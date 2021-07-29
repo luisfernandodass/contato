@@ -10,8 +10,6 @@
 
 body{
   background: #333333;
- 
-  
   margin-top: 10%;
 }
 
@@ -20,25 +18,24 @@ h1{
    margin-right: -50%;
    transform: translate(-50%, -50%);
    font-size: 16px;
-   top: 60px;
+   font-weight: 200;
+   top: 65px;
 }
 
 button {
     border: 0;
     border-radius: 30px;
     width: 258px;
-    height: 60px;
-   
+    height: 60px; 
     text-align: left;
     padding-left: 2rem ;
     font-size: 20px;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
-
-   box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.25);
-
+    box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.25);
     animation-name: btn-button;
+    cursor: pointer;
 }
 
 a{
@@ -60,22 +57,21 @@ a{
 }
 #instagram:hover{
     background:  rgba(225, 48, 108, 0.960675);    
-
 }
+#facebook {
+  top: 296px;
+  background: linear-gradient(270deg, #FAFDFF 0%, #3b5998  100%);
+}
+#facebook:hover{
+background: #637cb3;
+}
+
 #linkedin {
-    top: 296px;
+    top: 383px;
     background: linear-gradient(270deg, #FAFDFF 0%, #0077B5 100%); 
 }
 #linkedin:hover{
    background:  #0077B5;
-}
-
-#telegram {
-    top: 383px;
-    background: linear-gradient(270deg, #FAFDFF 0%, #0088CC 100%);
-}
-#telegram:hover{
-  background: #0088CC;
 }
 
 #github {
@@ -87,11 +83,11 @@ a{
 }
 
 footer{
-   top: 530px;
-
-   font-size: 16px;
+    top: 530px;
+    font-size: 16px;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
+    font-weight: 200;
 }
 }
