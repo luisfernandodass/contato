@@ -17,6 +17,7 @@ The following tools were used to build the project:
 - Figma
 
 ## Images
+![image](https://user-images.githubusercontent.com/67171626/127533805-56c66ac3-c828-4440-b39c-71c52cf567ba.png)
 
 ![image](https://user-images.githubusercontent.com/67171626/127533718-f1c6bc46-f9ef-4c93-84a7-fc23c5225bab.png)
 
