@@ -43,12 +43,12 @@ a{
   line-height: .3rem;
 }
 
-#whatsapp {
+#twitter {
     top: 122px;
-    background: linear-gradient(270deg, #FEFFFE 2.33%, rgba(37, 211, 102, 0.928962) 100%);
+    background: linear-gradient(270deg, #FEFFFE 2.33%, rgba(0, 172, 238, 1) 100%);
 }
-#whatsapp:hover{
-      background: rgba(37, 211, 102, 0.928962);
+#twitter:hover{
+      background: rgba(0, 172, 238, 1);
 }
 
 #instagram {
