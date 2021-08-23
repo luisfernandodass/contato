@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+*{	
+	color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  background-color: #0076b5;
+  height: 100vh;
+}
+
+button {
+    border: 0;
+    border-radius: 30px;
+    width: 258px;
+    height: 60px; 
+    text-align: left;
+    padding-left: 2rem ;
+    font-size: 20px;
+    margin-right: -50%;
+    box-shadow: 2px 2px 7px 3px rgba(0, 0, 0, 0.4);
+    animation-name: btn-button;
+    text-shadow: 2px 1px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+  line-height: .3rem;
+}
+
+.instagram {
+  background: linear-gradient(270deg, rgba(253, 29, 29, 0.960675) 0%, rgba(225, 48, 108, 0.960675) 34.19%, rgba(193, 53, 132, 0.928962) 46.17%, rgba(131, 58, 180, 0.928962) 59.92%, rgba(91, 81, 216, 0.928962) 71.91%, #405DE6 93.2%);    
+}
+
+.instagram:hover{
+  background:  rgba(225, 48, 108, 0.960675);    
+}
+
+.facebook {
+  background: linear-gradient(270deg, #FAFDFF 0%, #3b5998  100%);
+}
+
+.facebook:hover{
+  background: #637cb3;
+}
+
+.linkedin {
+  background: linear-gradient(270deg, #FAFDFF 0%, #0077B5 100%); 
+}
+
+.linkedin:hover{
+ background:  #0077B5;
+}
+
+.twitter {
+    background: linear-gradient(270deg, #FEFFFE 2.33%, rgba(0, 172, 238, 1) 100%);
+}
+
+.twitter:hover{
+      background: rgba(0, 172, 238, 1);
+}
+
+.github {
+    background: linear-gradient(270deg, #FAFDFF 0%, #333333 100%);
+}
+
+.github:hover{
+  background: #333333;
+}
+
+.portfolio {
+  background: linear-gradient(270deg, #FAFDFF 0%, #000 100%); 
+}
+
+.portfolio:hover{
+   background: #000000;
+}
+
+footer{
+    font-size: 13px;
+}
