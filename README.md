@@ -17,7 +17,7 @@ The following tools were used to build the project:
 - Figma
 
 ## Images
-![image](https://user-images.githubusercontent.com/67171626/127533805-56c66ac3-c828-4440-b39c-71c52cf567ba.png)
+![luisfernando netlify app_(Galaxy S5)](https://user-images.githubusercontent.com/67171626/130609670-ec6667e5-cb4c-4794-8cac-9a8203ceb60d.png)
 
 ## License
 <img src="https://img.shields.io/github/license/luisfernandodass/doebrasil"/>
