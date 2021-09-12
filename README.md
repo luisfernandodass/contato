@@ -1,4 +1,4 @@
-# Contact - Luis Fernando
+# Contato | Luis Fernando
 
 ## Objective
 
@@ -17,7 +17,8 @@ The following tools were used to build the project:
 - Figma
 
 ## Images
-![luisfernando netlify app_(Galaxy S5)](https://user-images.githubusercontent.com/67171626/130609670-ec6667e5-cb4c-4794-8cac-9a8203ceb60d.png)
+
+<img src="https://user-images.githubusercontent.com/67171626/130609670-ec6667e5-cb4c-4794-8cac-9a8203ceb60d.png" width="360px" height="420px"/>
 
 ## License
 <img src="https://img.shields.io/github/license/luisfernandodass/doebrasil"/>
